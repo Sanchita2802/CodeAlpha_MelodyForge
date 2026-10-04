@@ -1,0 +1,6 @@
+{
+  "name": "MelodyForge – AI Music Generator",
+  "description": "Teach a neural network to compose music directly in your browser with TensorFlow.js, interactive MIDI preprocessing, LSTM/GRU training, and real-time synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
